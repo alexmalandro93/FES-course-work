@@ -314,7 +314,7 @@ FEATURES
   flex-wrap: wrap;
 }
 
-book {
+.book {
   width: 25%;
   padding: 24px;
 }
@@ -411,7 +411,7 @@ book {
   h2 {
     font-size: 26px;
   }
- }
+ 
 
  button {
   font-size: 18px;
@@ -420,6 +420,7 @@ book {
  .book {
   width: 50%;
  }
+}
 
  /* SMALL PHONES, LARGE PHONES */
 
